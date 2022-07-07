@@ -2,7 +2,7 @@
 
 - 🌱 SOU INICIANTE NA PROGRAMAÇÃO
 - 🔭 TRABALHANDO COM ALGUNS MINI PROJETOS 
-- 📫 Instragram: @leia_lll 
+- 📫 Instagram: @leia_lll 
 - ⚡ Objetivo : Front - AND
 
 <div align="center">
@@ -12,9 +12,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
           
-  <img align="center" alt="leia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          
-
-          
-  ##
- 
+  
