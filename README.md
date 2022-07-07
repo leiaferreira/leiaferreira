@@ -3,7 +3,7 @@
 - 🌱 SOU INICIANTE NA PROGRAMAÇÃO
 - 🔭 TRABALHANDO COM ALGUNS MINI PROJETOS 
 - 📫 Instagram: @leia_lll 
-- ⚡ Objetivo : Front - AND
+- ⚡ Objetivo :
 
 <div align="center">
 <div align="center">
